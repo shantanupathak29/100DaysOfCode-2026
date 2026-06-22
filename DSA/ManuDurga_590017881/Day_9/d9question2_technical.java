@@ -8,5 +8,4 @@ public class d9question2_technical {
         String s = sc.nextLine();          // size of the input array
         s = s.replaceAll("[^A-Za-z0-9]", "");
         System.out.println(s);
-    }
-    }
+    }}
